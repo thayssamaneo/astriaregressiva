@@ -1,5 +1,5 @@
 // Configurar a data de abertura do servidor como prazo final
-let diaAbertura = new Date("Sep 7, 2026 00:00:00").getTime();
+let diaAbertura = new Date("Sep 4, 2026 00:00:00").getTime();
 
 // chamar os elementos da tela pelo id
 dias = document.getElementById("dias");
